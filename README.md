@@ -7,9 +7,9 @@
 
 ### Want to read something?
 <!-- BLOG-POST-LIST:START -->
-- [Network Basics](/en/posts/netbasics/)
-- [HTTP&lpar;s&rpar;](/en/posts/http/)
-- [DNS](/en/posts/dns/)
-- [Previse](/en/posts/previse/)
-- [OSINT](/en/posts/osint/)
+- [Network Basics](https://unitarity.netlify.app/en/posts/netbasics/)
+- [HTTP&lpar;s&rpar;](https://unitarity.netlify.app/en/posts/http/)
+- [DNS](https://unitarity.netlify.app/en/posts/dns/)
+- [Previse](https://unitarity.netlify.app/en/posts/previse/)
+- [OSINT](https://unitarity.netlify.app/en/posts/osint/)
 <!-- BLOG-POST-LIST:END -->
