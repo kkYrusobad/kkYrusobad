@@ -9,8 +9,6 @@
 
 I'm Prateek, a researcher, reader and self-proclaimed hacker who specializes in Linux ❤️🐧. I make it my mission to bridge the gap between AI and security with academia in mind.
 
-> Future International Masters Student
-
 Want to know more about me? [My Website](https://unitarity.netlify.app)  
 
 ### Want to read something?
