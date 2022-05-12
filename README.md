@@ -7,7 +7,7 @@
 
 ### Hi there 👋
 
-I'm Prateek, a researcher, reader and self-proclaimed hacker who specializes in Linux ❤️🐧. I make it my mission to bridge the gap between AI and security with academia in mind.
+I'm Prateek, a researcher, a reader and a self-proclaimed hacker who specializes in Linux ❤️🐧. I make it my mission to bridge the gap between AI and security with academia in mind.
 
 Want to know more about me? [My Website](https://unitarity.netlify.app)  
 
