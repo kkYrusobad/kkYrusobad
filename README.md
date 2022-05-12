@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/kkYrusobad/)
 
 ### Want to read something?
-<!-- BLOG-POST-LIST:START -->- [Network Basics](https://unitarity.netlify.app/en/posts/netbasics/)  
+<!-- BLOG-POST-LIST:START --> - [Network Basics](https://unitarity.netlify.app/en/posts/netbasics/)  
 - [HTTP&lpar;s&rpar;](https://unitarity.netlify.app/en/posts/http/)  
 - [DNS](https://unitarity.netlify.app/en/posts/dns/)  
 - [Previse](https://unitarity.netlify.app/en/posts/previse/)  
