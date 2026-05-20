@@ -24,12 +24,18 @@ I architect solutions at the intersection of **security**, **AI**, and **Linux s
 
 ---
 
-## 🔥 Selected Work
+## 🔥 Featured Projects
 
 | Project | Impact |
 | --- | --- |
-| **[Material Startpage](https://github.com/kkYrusobad/kkYrusobad.github.io)** | A sophisticated browser startpage with material design aesthetics and extensive customization. |
-| **[AbsoluteGruv Theme](https://github.com/kkYrusobad/AbsoluteGruv)** | Premium Obsidian theme engineered for distraction-free note-taking and knowledge management. |
+| **[oNIgiRI](https://github.com/kkYrusobad/oNIgiRI)** ⭐ 22 | Nifty configurations and automation for NIRI compositor + Omarchy ecosystem. |
+| **[encoder-tool](https://github.com/kkYrusobad/encoder-tool)** | Multi-format encoder/decoder with automatic detection and chain decoding for security analysis. |
+| **[file-entropy-analyzer](https://github.com/kkYrusobad/file-entropy-analyzer)** | Analyze file entropy patterns for cryptographic and data analysis purposes. |
+| **[Niruv](https://github.com/kkYrusobad/Niruv)** ⭐ 9 | Elegant QML theme combining NIRI compositor with Gruvbox aesthetics. |
+| **[tls-cert-analyzer](https://github.com/kkYrusobad/tls-cert-analyzer)** | Deep inspection and validation of TLS certificates for security auditing. |
+| **[Material Startpage](https://github.com/kkYrusobad/kkYrusobad.github.io)** ⭐ 8 | Sophisticated browser startpage with material design and extensive customization. |
+| **[AbsoluteGruv Theme](https://github.com/kkYrusobad/AbsoluteGruv)** ⭐ 4 | Premium Obsidian theme engineered for distraction-free note-taking and PKM. |
+| **[TheMounter](https://github.com/kkYrusobad/TheMounter)** | Intelligent VPN connection script with disk mount status awareness. |
 | **[Security Writeups](https://github.com/kkYrusobad/WRITEUPS)** | In-depth CTF and penetration-testing analysis with pedagogical approach. |
 | **[Linux Dotfiles](https://github.com/kkYrusobad/DOTS)** | Optimized system configuration balancing performance, aesthetics, and usability. |
 
@@ -39,13 +45,13 @@ I architect solutions at the intersection of **security**, **AI**, and **Linux s
 
 <div align="left">
 
-**Languages:** `Python` `JavaScript` `Bash` `Markdown`
+**Languages:** `Python` `JavaScript` `Bash` `Rust` `Markdown`
 
-**Security:** `Burp Suite` `Wireshark` `Metasploit` `OWASP`
+**Security:** `Burp Suite` `Wireshark` `Metasploit` `OWASP` `Cryptanalysis`
 
 **AI & Automation:** `OpenAI` `n8n` `LangChain`
 
-**Infrastructure:** `Linux` `Docker` `Git` `Obsidian`
+**Infrastructure:** `Linux` `Docker` `Git` `Obsidian` `NIRI` `Hyprland`
 
 </div>
 
