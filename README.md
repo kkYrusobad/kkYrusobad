@@ -7,63 +7,69 @@
 **Security Researcher · AI Explorer · Linux Enthusiast**
 
 <p>
-  <a href="https://unitarity.netlify.app">Website</a> ·
-  <a href="https://twitter.com/kkYrusobad">Twitter</a> ·
-  <a href="https://www.linkedin.com/in/kkYrusobad/">LinkedIn</a>
+  <a href="https://unitarity.netlify.app">🌐 Website</a> ·
+  <a href="https://twitter.com/kkYrusobad">𝕏 Twitter</a> ·
+  <a href="https://www.linkedin.com/in/kkYrusobad/">💼 LinkedIn</a>
 </p>
+
+---
+
+</div>
+
+## 🎯 What I Do
+
+I architect solutions at the intersection of **security**, **AI**, and **Linux systems**. My work spans from building practical security tooling to automating complex workflows with intelligent systems—always with a focus on clean code and knowledge sharing.
+
+> Building secure, efficient systems that scale.
+
+---
+
+## 🔥 Selected Work
+
+| Project | Impact |
+| --- | --- |
+| **[Material Startpage](https://github.com/kkYrusobad/kkYrusobad.github.io)** | A sophisticated browser startpage with material design aesthetics and extensive customization. |
+| **[AbsoluteGruv Theme](https://github.com/kkYrusobad/AbsoluteGruv)** | Premium Obsidian theme engineered for distraction-free note-taking and knowledge management. |
+| **[Security Writeups](https://github.com/kkYrusobad/WRITEUPS)** | In-depth CTF and penetration-testing analysis with pedagogical approach. |
+| **[Linux Dotfiles](https://github.com/kkYrusobad/DOTS)** | Optimized system configuration balancing performance, aesthetics, and usability. |
+
+---
+
+## 💻 Technologies
+
+<div align="left">
+
+**Languages:** `Python` `JavaScript` `Bash` `Markdown`
+
+**Security:** `Burp Suite` `Wireshark` `Metasploit` `OWASP`
+
+**AI & Automation:** `OpenAI` `n8n` `LangChain`
+
+**Infrastructure:** `Linux` `Docker` `Git` `Obsidian`
 
 </div>
 
 ---
 
-## About
+## 📚 Recent Writing
 
-I work at the intersection of security, AI, and Linux systems. My focus is on building practical tools, automating repetitive workflows, and sharing research through open-source projects and writeups.
+Explore security fundamentals, techniques, and walkthroughs:
 
-## Focus Areas
+- **[OSINT](https://unitarity.netlify.app/en/posts/osint/)** — Intelligence gathering methodologies
+- **[DNS](https://unitarity.netlify.app/en/posts/dns/)** — Domain infrastructure deep dive
+- **[HTTP(S)](https://unitarity.netlify.app/en/posts/http/)** — Web protocol analysis
+- **[Network Basics](https://unitarity.netlify.app/en/posts/netbasics/)** — Core networking fundamentals
 
-- Security research and offensive tooling
-- AI-assisted automation and workflow design
-- Linux engineering and developer tooling
-- Technical writing and knowledge sharing
+[→ View all posts](https://unitarity.netlify.app/en/posts/)
 
-## Selected Projects
-
-| Project | Summary |
-| --- | --- |
-| [Material Startpage](https://github.com/kkYrusobad/kkYrusobad.github.io) | A clean, customizable browser startpage with a material-inspired design. |
-| [AbsoluteGruv Theme](https://github.com/kkYrusobad/AbsoluteGruv) | A polished Obsidian theme built for focused note-taking and PKM workflows. |
-| [Security Writeups](https://github.com/kkYrusobad/WRITEUPS) | CTF and penetration-testing writeups with a learning-first approach. |
-| [Linux Dotfiles](https://github.com/kkYrusobad/DOTS) | A curated Linux configuration setup focused on speed, consistency, and aesthetics. |
-
-## Tech Stack
-
-**Languages**
-`Python` `JavaScript` `Bash` `Markdown`
-
-**Security & Analysis**
-`Burp Suite` `Wireshark` `Metasploit` `OWASP`
-
-**AI & Automation**
-`OpenAI` `n8n` `LangChain`
-
-**Systems & Tools**
-`Linux` `Docker` `Git` `Obsidian`
-
-## GitHub Overview
+---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kkYrusobad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkYrusobad&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+
+## Let's Connect
+
+Open to collaboration, research partnerships, and interesting conversations.
+
+**[🌐 Website](https://unitarity.netlify.app) · [💼 LinkedIn](https://www.linkedin.com/in/kkYrusobad/) · [𝕏 Twitter](https://twitter.com/kkYrusobad)**
+
 </div>
-
-## Writing
-
-- [OSINT](https://unitarity.netlify.app/en/posts/osint/) — Intelligence gathering
-- [DNS](https://unitarity.netlify.app/en/posts/dns/) — Domain name systems
-- [HTTP(S)](https://unitarity.netlify.app/en/posts/http/) — Web protocols
-- [Network Basics](https://unitarity.netlify.app/en/posts/netbasics/) — Fundamentals
-
-## Contact
-
-If you'd like to collaborate or just connect, reach out through my [website](https://unitarity.netlify.app), [LinkedIn](https://www.linkedin.com/in/kkYrusobad/), or [Twitter](https://twitter.com/kkYrusobad).
