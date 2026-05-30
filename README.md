@@ -18,7 +18,7 @@
 
 ## 🎯 What I Do
 
-I architect solutions at the intersection of **security**, **AI**, and **Linux systems**. My work spans from building practical security tooling to automating complex workflows with intelligent systems—always with a focus on clean code and knowledge sharing.
+I architect solutions at the intersection of **security**, **AI**, and **Linux systems**. My work spans from building practical security tooling to automating complex workflows with intelligent systems, always with a focus on clean code and knowledge sharing.
 
 > Building secure, efficient systems that scale.
 
